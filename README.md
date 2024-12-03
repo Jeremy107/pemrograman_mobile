@@ -1,6 +1,6 @@
 # pemrograman_mobile
 
-A new Flutter project.
+Tugas tambahan praktikum pemrograman mobil.
 
 ## Getting Started
 
